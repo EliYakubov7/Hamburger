@@ -1,6 +1,6 @@
 # HamburgerApp
 
-Hooks, React Router, Redux
+Hamburger Web App - Hooks, React Router, Redux
 
 ## Deployed Version
 
