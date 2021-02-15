@@ -7,19 +7,19 @@ Live demo (Feel free to visit) 👉 : https://react-my-burger-af092.web.app/
 
 ### Home
 
-<img src="https://github.com/EliYakubov7/HamburgerApp/blob/main/screenshots/home_page.png" width="700">
+<img src="https://github.com/EliYakubov7/HamburgerApp/blob/main/screenshots/home_page.png" width="1000">
 
-### Search
+### Signin/Signup
 
-<img src="https://github.com/EliYakubov7/HamburgerApp/blob/main/screenshots/login_signup.png" width="700">
+<img src="https://github.com/EliYakubov7/HamburgerApp/blob/main/screenshots/login_signup.png" width="1000">
 
-### Add Recipe
+### Order
 
-<img src="https://github.com/EliYakubov7/HamburgerApp/blob/main/screenshots/order.png" width="700">
+<img src="https://github.com/EliYakubov7/HamburgerApp/blob/main/screenshots/order.png" width="1000">
 
-### Bookmarks
+### All Orders
 
-<img src="https://github.com/EliYakubov7/HamburgerApp/blob/main/screenshots/all_orders.png" width="700">
+<img src="https://github.com/EliYakubov7/HamburgerApp/blob/main/screenshots/all_orders.png" width="1000">
 
 ## Author
 
