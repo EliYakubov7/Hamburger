@@ -1,6 +1,6 @@
-# HamburgerApp
+# Hamburger
 
-Hamburger Order Web App - Hooks, React Router, Redux
+Burger Order Web App - Hooks, React Router, Redux
 
 ## Deployed Version
 
